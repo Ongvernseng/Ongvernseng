@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi I'm MrOngVernSeng 👋
+About Me:
 
-<!--
-**Ongvernseng/Ongvernseng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I'm currently studying Diploma in Multimedia Design 🎨
 
-Here are some ideas to get you started:
+🔭 I'll be using this account to upload school projects and hobby projects!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## </> Languages that I've Learnt </>
+<li>C
+C++
+HTML
+CSS
+JavaScript
+MySQL
+</li>
+
+## School Project
+✍️ Working on Multimedia Assignment, a Website using HTML + CSS , and some random application designing
+
+## Hobby Projects
+✍️ Currently, I'm working on making my own game.
