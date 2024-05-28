@@ -7,8 +7,7 @@ About Me:
 
 ## </> Languages that I've Learnt </>
 <li>HTML
-  
-CSS
+  CSS
 </li>
 
 ## School Project
