@@ -6,12 +6,9 @@ About Me:
 🔭 I'll be using this account to upload school projects and hobby projects!
 
 ## </> Languages that I've Learnt </>
-<li>C
-C++
+<li>
 HTML
 CSS
-JavaScript
-MySQL
 </li>
 
 ## School Project
