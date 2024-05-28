@@ -6,8 +6,8 @@ About Me:
 🔭 I'll be using this account to upload school projects and hobby projects!
 
 ## </> Languages that I've Learnt </>
-<li>
-HTML
+<li>HTML
+  
 CSS
 </li>
 
