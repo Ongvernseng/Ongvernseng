@@ -7,8 +7,8 @@ About Me:
 
 ## </> Languages that I've Learnt </>
 <li>HTML
-  CSS
-</li>
+  
+  CSS</li>
 
 ## School Project
 ✍️ Working on Multimedia Assignment, a Website using HTML + CSS , and some random application designing
